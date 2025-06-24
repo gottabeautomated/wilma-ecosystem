@@ -5,8 +5,8 @@
   "framework": "vite",
   "outputDirectory": "dist",
   "env": {
-    "VITE_SUPABASE_URL": "@wilma_supabase_url",
-    "VITE_SUPABASE_ANON_KEY": "@wilma_supabase_anon_key",
+    "VITE_SUPABASE_URL": "https://pyqooruoylfvrzbbxglp.supabase.co",
+    "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB5cW9vcnVveWxmdnJ6YmJ4Z2xwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA3ODkzODAsImV4cCI6MjA2NjM2NTM4MH0.ahXqbeLGVpDiR9UIR6mBITb5mtHtgaGnLC3OPd2fYEo",
     "VITE_ANALYTICS_ID": "@wilma_analytics_id",
     "VITE_APP_ENV": "production",
     "VITE_MAIN_SITE_URL": "https://wilma-wedding.com"
